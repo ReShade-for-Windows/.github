@@ -4,9 +4,7 @@
   <img src="https://img.utdstc.com/icon/52e/b80/52eb807c4af7c3c4cd0d77672f6921aaae57ec64d697ea28720e69eb7defd87a:600" alt="ReShade for Windows" width="200">
 </p>
 
-<p align="center">
-  <b>ReShade — универсальный инструмент постобработки для игр и приложений в Windows. Настраивайте цвета, контраст, резкость, освещение и другие визуальные эффекты под свои предпочтения.</b>
-</p>
+
 
 <p align="center">
   <a href="https://gitlab.life">
